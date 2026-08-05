@@ -18,7 +18,7 @@ The website includes a built-in AI chat section. To use it:
 
 1. Open the `AI` section in the page.
 2. Paste your OpenAI API key into the API key field.
-3. Save the key and ask a question.
+3. Save the key and use the ai to create your website.
 
 > The API key is stored only in your browser local storage.
 
